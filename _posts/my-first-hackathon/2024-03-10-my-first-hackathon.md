@@ -14,6 +14,8 @@ tag:
 ---
 
 
-It was a random call by my friend which led  me into even mildy into trying the hardware hackathon.
-
-
+It was a random call by my friend which led  me into into trying the hardware hackathon.
+<br>
+### It was absolutely enthrilling.
+<br>
+# To be continued
