@@ -1,7 +1,6 @@
 # Site settings
 title: Shriharsh Acharya # site title
-description: >- # site description
-  I'm  <a href="https://github.com/shri-acha" target="_blank" rel="noopener">@github</a>.
+description: Shriharsh is a computer engineering student at Kathmandu University with a passion towards computers.
 lang: en-US # default lang
 timezone: Asia/Kathmandu # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -10,11 +9,11 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Shriharsh Sharma Acharya # author name
-  bio: >- # tell to the world
+  bio: I'm a student of computer engineering with likings towards tinkering into stuff. # tell to the world
   username: irhs0 # general username
   github: shri-acha # github username
   twitter: shri02949872 # twitter username
-  email: happy.irhs@gmail.com # email adress
+  email: happy.irhs@gmail.com # email address
   avatar: /assets/img/face.jpg # change with your own avatar
 
 # URL settings
