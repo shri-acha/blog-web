@@ -14,9 +14,10 @@ The blog is to keep the track of my programming and engineering journey🧑‍�
 
 # My setup:
 #####  ➡️  OS: I use Arch btw.
+<img src="/assets/shot.png">
 ##### ➡️  GUI: wayland(display protocol) + waybar(bar)
 ##### ➡️  Text/Code Editor: /emacs(hopefully in the coming months).
 
 
-<a href="mailto://{{ site.author.email}}?subject=Subject%20Line&body=But most of all, Aadarsh and Shriharsh are my heroes"> my email </a><br>
+<a href="mailto:{{ site.author.email}}?subject=Subject%20Line&body=But most of all, Aadarsh and Shriharsh are my heroes"> my email </a><br>
 [my github](https://github.com/{{ site.author.github }}) 
