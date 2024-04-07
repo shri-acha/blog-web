@@ -18,7 +18,7 @@ url: external
 ---
 ---
 
-###  Trying to build a packet and create our own network connection with clear exchange of data.
+###  Trying to build a simple packet
 
 
 ➡️ `Protocol`:
